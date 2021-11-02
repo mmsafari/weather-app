@@ -6,7 +6,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export",
   },
   "dependencies": {
     "dotenv": "^10.0.0",
